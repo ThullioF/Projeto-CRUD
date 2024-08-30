@@ -1,0 +1,11 @@
+{
+    "livros": [
+    {
+    "id": "1",
+    "name": "Livro 1",
+    "description": "Descrição do livro 1",
+    "price": 100,
+    "quantity": 10
+    }
+    ]
+   }

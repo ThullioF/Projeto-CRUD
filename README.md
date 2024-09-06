@@ -50,7 +50,3 @@
   - App.tsx
 
 
-
-# 🌐 Projeto
-
-### [Acesse o projeto finalizado, online](https://thulliof.github.io/Projeto-CRUD/)
